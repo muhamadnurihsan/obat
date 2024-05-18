@@ -13,7 +13,7 @@
 - Import file .sql yang ada di folder DB
 
 ## Cara Running
-- ketikkan di terminal php artisan serve
+- ketikkan di terminal dengan perintah "php artisan serve"
 - akses url http://127.0.0.1:8000 di browser (Disarankan menggunakann mozilla)
 
 ## About Laravel
