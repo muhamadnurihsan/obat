@@ -16,6 +16,11 @@
 - ketikkan di terminal dengan perintah "php artisan serve"
 - akses url http://127.0.0.1:8000 di browser (Disarankan menggunakann mozilla)
 
+## Akses Aplikasi
+Gunakan authentikasi login default sebagai berikut :
+- email : ihsan@gmail.com
+- password : 12345678
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
